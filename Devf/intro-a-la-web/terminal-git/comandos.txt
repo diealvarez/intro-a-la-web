@@ -1,0 +1,9 @@
+he aprendido que el  pwd  sirve para determinar donde estamos. 
+ Ls  indica lo que contiene cada carpeta. 
+ mkdir  indica creacion de carpetas. 
+ touch  indiica creacion de archivos. 
+ cd  tiene varias funciones,  cd  nombre indica a que carpeta o archivo se dirijira. 
+ cd ..  indica regresos. 
+ tambien aprendi dos nuevos;  echo  indica el agregado de texto aun archivo y -e permite simbolos, ademas  >> nombre  indica aque archivo se le agregara . 
+ cat  muestra el contenido del archivo. 
+ rm indica eliminacion del archivo y rmdirelimina carpetas.
